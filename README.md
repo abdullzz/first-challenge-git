@@ -14,4 +14,5 @@ Ekspetasi saya terhadap bootcamp [Hacktiv8](https://hacktiv8.com/) adalah di boo
 Setelah lulus nanti, saya berharap saya bisa menjadi seorang developer dan bisa mendapat pekerjaan di dunia teknologi informasi.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+## Hal lainnya
 Semoga saya tetap semangat menjalani bootcamp di [Hacktiv8](https://hacktiv8.com/)
