@@ -9,3 +9,4 @@ menurut saya kedepannya bidang programer / web developer cukup menjanjikan kebet
 ## Ekspektasi
 saya ingin mendapatkan ilmu yang lebih dalam tentang coding data program, dan membiasakan diri di dalam tekanan seperti di bootcamp. saya ingin bekerja dan mencari banyak jaringan di bidang development.
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+.....
