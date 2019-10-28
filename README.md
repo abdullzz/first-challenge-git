@@ -15,6 +15,6 @@ maupun versi mobile yang bagus.)
 [//]: ## Lain-lain:
 (Kiranya para Instructor dapat membagi ilmu dan keahlian serta tips trik nya.)
 
-[//]: ## Terima Kasih, GBU
+(## Terima Kasih, GBU)
 
 (Kirwan Molek)
