@@ -18,4 +18,4 @@ Tujuan saya kesini adalah untuk mendapatkan ilmu tidak hanya dibidang javascript
 ## Ekspektasi
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
 
-Expektasi saya adalah saya bisa menjadi diri saya yang saya harapkan di tujuan saya masuk sini.
+Expektasi saya adalah saya bisa menjadi diri saya yang saya harapkan di tujuan saya masuk sini. 
